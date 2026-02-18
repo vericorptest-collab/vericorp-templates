@@ -27,4 +27,4 @@ VERICORP_API_KEY=your_rapidapi_key
 
 ## Get an API Key
 
-Sign up at [RapidAPI](https://rapidapi.com/vericorp/api/vericorp-api).
+Sign up at [RapidAPI](https://rapidapi.com/vericorptestcollab/api/vericorp).

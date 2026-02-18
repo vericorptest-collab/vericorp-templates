@@ -1,6 +1,6 @@
 # VeriCorp Templates
 
-Starter templates for integrating the [VeriCorp API](https://rapidapi.com/vericorp/api/vericorp-api) into your projects.
+Starter templates for integrating the [VeriCorp API](https://rapidapi.com/vericorptestcollab/api/vericorp) into your projects.
 
 ## Templates
 
@@ -12,7 +12,7 @@ Starter templates for integrating the [VeriCorp API](https://rapidapi.com/verico
 
 ## Get an API Key
 
-Sign up at [RapidAPI](https://rapidapi.com/vericorp/api/vericorp-api) to get your key.
+Sign up at [RapidAPI](https://rapidapi.com/vericorptestcollab/api/vericorp) to get your key.
 
 ## License
 
